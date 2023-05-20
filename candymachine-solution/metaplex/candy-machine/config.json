@@ -5,7 +5,7 @@
   "isSequential": false,
   "creators": [
     {
-      "address": "6D3JNTMDKqeA533CxnQTtzYHy1SuNCwvo7z9Cx3T9jJi",
+      "address": "2GNca71GUb7o7fu8Vh81WE6wAjBYmenbkPb1zbzdvb13",
       "share": 100
     }
   ],
@@ -25,11 +25,11 @@
         "lastInstruction": true
       },
       "startDate": {
-        "date": "2022-10-20 18:00:00 +0000"
+        "date": null
       },
       "solPayment": {
         "value": 2,
-        "destination": "2aaKJpbQNpJXPgReNKQtB5ozs1DnoADCQCGk5pD7x2Xg"
+        "destination": "2GNca71GUb7o7fu8Vh81WE6wAjBYmenbkPb1zbzdvb13"
       }
     },
     "groups": null

@@ -1,20 +1,20 @@
 {
-    "name": "Studious Crab #3",
-    "symbol": "CRAB",
-    "description": "The Studious Crabs are smart and productive crabs.",
+    "name": "SMB #2594",
+    "symbol": "SMB",
+    "description": "SMB is a collection of 5000 unique randomly generated SolanaMonkeys stored on the blockchain. With their accessibility-oriented design, the monkeys' goal is to invade the Solana blockchain with as many individuals as possible, building a large community around them, supported by owner-exclusive advantages, a community wallet and a future voting system. Reject humanity, return to monke.",
     "image": "2.png",
     "attributes": [
         {
-            "trait_type": "accessory",
-            "value": "laptop"
+            "trait_type": "type",
+            "value": "Dark"
         },
         {
-            "trait_type": "chair",
-            "value": "blue"
+            "trait_type": "clothes",
+            "value": "Green Shirt"
         },
         {
-            "trait_type": "books",
-            "value": "white"
+            "trait_type": "ears",
+            "value": "None"
         }
     ],
     "properties": {
