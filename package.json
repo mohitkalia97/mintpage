@@ -24,7 +24,7 @@
     "react-hot-toast": "^2.4.0",
     "react-modal": "^3.16.1",
     "express": "^4.17.1",
-    "another-package": "git+https://github.com/mohitkalia97/mintpage.git#v1.0.0"
+    "another-package": "git+https://github.com/mohitkalia97/mintpage.git#main"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.13",
