@@ -12,7 +12,7 @@
     "@headlessui/react": "^1.7.4",
     "@heroicons/react": "v1",
     "@metaplex-foundation/js": "^0.17.5",
-    "@solana/spl-token": "^0.3.7",
+    "@solana/spl-token": "latest",
     "@solana/wallet-adapter-base": "^0.9.22",
     "@solana/wallet-adapter-react": "^0.15.32",
     "@solana/wallet-adapter-react-ui": "^0.9.31",
@@ -30,5 +30,8 @@
     "eslint-config-next": "13.0.1",
     "postcss": "^8.4.18",
     "tailwindcss": "^3.2.3"
-  }
+  },
+  "engines": {
+    "node": "16.20.0"
+}
 }
