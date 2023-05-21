@@ -22,7 +22,9 @@
     "react": "^18.2.0",
     "react-dom": "18.2.0",
     "react-hot-toast": "^2.4.0",
-    "react-modal": "^3.16.1"
+    "react-modal": "^3.16.1",
+    "express": "^4.17.1",
+    "another-package": "git+https://github.com/mohitkalia97/mintpage.git#v1.0.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.13",
